@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/hasil coding/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/hasil coding/uts/app/src/main/res/layout/activity_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/hasil coding/uts/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/hasil coding/uts/app/src/main/res/layout/activity_main_menu.xml" value="0.33" />
+        <entry key="..\:/hasil coding/uts/app/src/main/res/layout/activity_makanan.xml" value="0.20416666666666666" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_about.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_air_mineral.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_cumi_bakar.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_cumi_saus_padang.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_cumi_saus_tiram.xml" value="0.25" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_es_kelapa.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_ikan_bakar_kecap.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_ikan_bakar_mentega.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_ikan_saus_padang.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_ikan_saus_tiram.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_jeruk.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_kepiting_saus_padang.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_lemon_tea.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_lobster_saus_padang.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_main_menu.xml" value="0.22" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_makanan.xml" value="0.15" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_minuman.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_teh.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_udang_bakar.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_udang_saus_padang.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/layout/activity_udang_saus_tiram.xml" value="0.2028985507246377" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/hasil coding/uts1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
