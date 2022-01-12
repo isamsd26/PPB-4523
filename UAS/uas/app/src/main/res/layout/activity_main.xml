@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="194dp"
+        android:layout_height="135dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="109dp"
+        android:layout_marginLeft="109dp"
+        android:layout_marginEnd="108dp"
+        android:layout_marginRight="108dp"
+        android:layout_marginBottom="492dp"
+        app:srcCompat="@drawable/log"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="156dp" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="99dp"
+        android:layout_marginRight="99dp"
+        android:layout_marginBottom="435dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:text=""
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="295dp" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="99dp"
+        android:layout_marginRight="99dp"
+        android:layout_marginBottom="371dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:text=""
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="343dp" />
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="165dp"
+        android:layout_marginRight="165dp"
+        android:layout_marginBottom="268dp"
+        android:text="Login"
+        app:backgroundTint="@color/black"
+        tools:layout_editor_absoluteX="156dp"
+        tools:layout_editor_absoluteY="403dp" />
+
+    <TextView
+        android:id="@+id/LupaPassword"
+        android:layout_width="116dp"
+        android:layout_height="19dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="109dp"
+        android:layout_marginRight="109dp"
+        android:layout_marginBottom="343dp"
+        android:ems="10"
+        android:textSize="15dp"
+        android:hint="Lupa Password"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:text="Lupa Password"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="295dp" />
+
+    <TextView
+        android:id="@+id/buatAkunbaru"
+        android:layout_width="152dp"
+        android:layout_height="37dp"
+        android:layout_alignStart="@+id/button1"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-26dp"
+        android:layout_marginEnd="128dp"
+        android:layout_marginRight="128dp"
+        android:layout_marginBottom="183dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:text="Buat Akun Baru"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="295dp" />
+
+</RelativeLayout>
